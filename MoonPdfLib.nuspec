@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>timburr.MoonPdfLib</id>
+    <version>0.0.1.0</version>
+    <title>MoonPdfLib</title>
+    <authors>Tim Burris,Daniel Kailer</authors>
+    <owners>Tim Burris</owners>
+    <licenseUrl>https://github.com/TimBurris/moonpdf/blob/master/COPYING</licenseUrl>
+    <projectUrl>https://github.com/TimBurris/moonpdf</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A WPF control that can be included in your application allowing you to show PDF files.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>pdf viewer previewer pdfviewer pdfpreviewer wpf</tags>
+    <dependencies/>      
+  </metadata>
+  <files>
+    <file src="MoonPdfLib.dll" target="lib\net4\MoonPdfLib.dll" />
+    <file src="MoonPdfLib.xml" target="lib\net4\MoonPdfLib.xml" />
+    <file src="libmupdf.dll" target="lib\net4\libmupdf.dll" />
+    <file src="MouseKeyboardActivityMonitor.dll" target="lib\net4\MouseKeyboardActivityMonitor.dll" />
+    <file src="MouseKeyboardActivityMonitor.xml" target="lib\net4\MouseKeyboardActivityMonitor.xml" />
+  </files>
+
+</package>
