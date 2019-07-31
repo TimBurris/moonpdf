@@ -22,6 +22,7 @@
     <file src="MouseKeyboardActivityMonitor.dll" target="lib\net4\MouseKeyboardActivityMonitor.dll" />
     <file src="MouseKeyboardActivityMonitor.xml" target="lib\net4\MouseKeyboardActivityMonitor.xml" />
 	<file src="libmupdf.dll" target="content\libmupdf.dll" />
+	<file src="libmupdf.readme.txt" target="content\libmupdf.readme.txt" />
 	<file src="install.ps1" target="tools" />
   </files>
  
