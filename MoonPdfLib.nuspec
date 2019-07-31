@@ -16,11 +16,11 @@
     <dependencies/>      
   </metadata>
   <files>
-    <file src="bin\Release\MoonPdfLib.dll" target="lib\net4\MoonPdfLib.dll" />
-    <file src="bin\Release\MoonPdfLib.xml" target="lib\net4\MoonPdfLib.xml" />
-    <file src="bin\Release\libmupdf.dll" target="lib\net4\libmupdf.dll" />
-    <file src="bin\Release\MouseKeyboardActivityMonitor.dll" target="lib\net4\MouseKeyboardActivityMonitor.dll" />
-    <file src="bin\Release\MouseKeyboardActivityMonitor.xml" target="lib\net4\MouseKeyboardActivityMonitor.xml" />
+    <file src="MoonPdfLib.dll" target="lib\net4\MoonPdfLib.dll" />
+    <file src="MoonPdfLib.xml" target="lib\net4\MoonPdfLib.xml" />
+    <file src="libmupdf.dll" target="lib\net4\libmupdf.dll" />
+    <file src="MouseKeyboardActivityMonitor.dll" target="lib\net4\MouseKeyboardActivityMonitor.dll" />
+    <file src="MouseKeyboardActivityMonitor.xml" target="lib\net4\MouseKeyboardActivityMonitor.xml" />
   </files>
 
 </package>
