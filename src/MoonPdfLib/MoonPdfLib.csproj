@@ -144,6 +144,11 @@
   <ItemGroup>
     <None Include="headertemplate.json" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="libmupdf.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!--<PropertyGroup>
     <PostBuildEvent>xcopy $(SolutionDir)..\bin\MuLib\$(PlatformName)\libmupdf.dll $(TargetDir) /Y</PostBuildEvent>

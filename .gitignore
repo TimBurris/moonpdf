@@ -9,3 +9,4 @@ ext/sumatra/output/
 ext/sumatra/mupdf/generated/
 ext/MouseKeyboardActivityMonitor/bin/
 ext/MouseKeyboardActivityMonitor/obj/
+/src/.vs/
