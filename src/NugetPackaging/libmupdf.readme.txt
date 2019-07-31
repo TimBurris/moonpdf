@@ -1,1 +1,2 @@
-libmupdf.dll included in the project with a "copy if newer" setting because it is a library that MoonPdfLib requires.  it' is not a .NET library so you cannot add a reference to it, but it must be in the output folder.
+libmupdf.dll included in the project with a "copy if newer" setting because it is a library that MoonPdfLib requires.  
+	libmupdf.dll is not a .NET library so you cannot add a reference to it, but it must be in the output folder.
