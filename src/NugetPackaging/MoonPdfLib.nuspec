@@ -13,14 +13,16 @@
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>pdf viewer previewer pdfviewer pdfpreviewer wpf</tags>
-    <dependencies/>      
+    <dependencies/>   
+   
   </metadata>
   <files>
     <file src="MoonPdfLib.dll" target="lib\net4\MoonPdfLib.dll" />
     <file src="MoonPdfLib.xml" target="lib\net4\MoonPdfLib.xml" />
-    <file src="libmupdf.dll" target="lib\net4\libmupdf.dll" />
     <file src="MouseKeyboardActivityMonitor.dll" target="lib\net4\MouseKeyboardActivityMonitor.dll" />
     <file src="MouseKeyboardActivityMonitor.xml" target="lib\net4\MouseKeyboardActivityMonitor.xml" />
+	<file src="libmupdf.dll" target="content\libmupdf.dll" />
+	<file src="install.ps1" target="tools" />
   </files>
-
+ 
 </package>
